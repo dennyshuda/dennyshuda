@@ -30,13 +30,13 @@
 
 ## 💼 Experience & Education
 
-**🎓 Bachelor of [Degree Name] in [Major]**  
+**🎓 Bachelor of Informatics Engineering **  
 *UPN "Veteran" Jawa Timur· 2021 - 2025*  
 - Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development
 
 **💻 Experience**  
-- *Software Developer Intern* @ [PT Santai Berkulitas Syberindo] — [Brief description of responsibilities]
-- *Frontend Developer Intern + Contract* @ [PT Aksamedia Mulia Digital] — [Brief description of responsibilities]
+- *Software Developer Intern* @ [PT Santai Berkulitas Syberindo] 
+- *Frontend Developer Intern + Contract* @ [PT Aksamedia Mulia Digital] 
 
 ---
 
